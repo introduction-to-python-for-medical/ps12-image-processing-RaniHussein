@@ -4,7 +4,6 @@ import numpy as np
 from skimage.filters import median
 from skimage.morphology import ball
 
-# Load the image
 path = 'starry_night.jpg'
 picture = load_image(path)
 
